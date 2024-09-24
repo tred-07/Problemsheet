@@ -1,0 +1,121 @@
+Number Theory:
+https://codeforces.com/blog/entry/82143
+Data Structure:
+Vector:
+CF: https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/L
+CF: https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/F
+CF: https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/C
+CF: https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/J
+CF: https://codeforces.com/group/MWSDmqGsZm/contest/329103/problem/D
+CF: https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Z
+CF: https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Y
+Linked List:
+https://leetcode.com/problems/middle-of-the-linked-list/
+https://leetcode.com/problems/linked-list-cycle/
+https://leetcode.com/problems/palindrome-linked-list/
+https://leetcode.com/problems/reverse-linked-list/
+https://leetcode.com/problems/remove-duplicates-from-sorted-list/
+https://leetcode.com/problems/remove-linked-list-elements/
+https://leetcode.com/problems/swapping-nodes-in-a-linked-list/
+https://leetcode.com/problems/merge-nodes-in-between-zeros/
+Stack:
+https://www.codingninjas.com/studio/problems/insert-an-element-at-its-bottom-in-a-given-stack_1171166
+https://www.codingninjas.com/studio/problems/maximum-equal-stack-sum_1062571
+https://www.codingninjas.com/studio/problems/reversing-a-queue_982934
+https://www.codingninjas.com/studio/problems/reverse-stack-using-recursion_631875
+https://leetcode.com/problems/backspace-string-compare/description/
+https://leetcode.com/problems/valid-parentheses/
+https://www.codingninjas.com/studio/problems/implement-stack-with-linked-list_630475
+https://www.codingninjas.com/studio/problems/queue-using-array-or-singly-linked-list_2099908
+https://www.codingninjas.com/studio/problems/reverse-first-k-elements-of-queue_982771
+https://www.codingninjas.com/studio/problems/min-stack_3843991
+https://www.codingninjas.com/studio/problems/kevin-s-stack-problem_1169465
+Binary Tree:
+https://www.codingninjas.com/studio/problems/name_2035933
+https://www.codingninjas.com/studio/problems/preorder-binary-tree_5948
+https://www.codingninjas.com/studio/problems/inorder-traversal_3839605
+https://www.codingninjas.com/studio/problems/count-leaf-nodes_893055
+https://www.codingninjas.com/studio/problems/level-order-traversal_796002
+https://www.codingninjas.com/studio/problems/tree-height_4609628
+https://www.codingninjas.com/studio/problems/left-sum_920380
+https://www.codingninjas.com/studio/problems/reverse-level-order-traversal_764339
+https://www.codingninjas.com/studio/problems/special-binary-tree_920502
+https://www.codingninjas.com/studio/problems/diameter-of-the-binary-tree_920552
+https://www.codingninjas.com/studio/problems/left-view-of-a-binary-tree_920519
+https://www.codingninjas.com/studio/problems/node-level_920383
+https://www.codingninjas.com/studio/problems/code-find-a-node_5682
+https://leetcode.com/problems/binary-tree-tilt/
+https://leetcode.com/problems/same-tree/
+https://leetcode.com/problems/leaf-similar-trees/
+https://leetcode.com/problems/leaf-similar-trees/
+https://leetcode.com/problems/univalued-binary-tree/
+https://leetcode.com/problems/root-equals-sum-of-children/
+Binary Search Tree:
+https://www.codingninjas.com/studio/problems/fourth-largest-element-in-the-array_1792782
+https://www.codingninjas.com/studio/problems/insert-into-a-binary-search-tree_1279913
+https://leetcode.com/problems/increasing-order-search-tree/
+https://leetcode.com/problems/minimum-absolute-difference-in-bst/
+https://leetcode.com/problems/sort-an-array/
+https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/
+https://leetcode.com/problems/two-sum-iv-input-is-a-bst/
+https://leetcode.com/problems/search-in-a-binary-search-tree/
+https://leetcode.com/problems/range-sum-of-bst/
+https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
+
+Graph:
+https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab
+https://leetcode.com/problems/number-of-closed-islands/
+www.hackerrank.com/alpha-contest-v-1
+https://leetcode.com/problems/flood-fill/
+https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab
+https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab
+https://www.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab
+https://www.eolymp.com/en/problems/1365
+https://cses.fi/problemset/task/1667
+https://www.eolymp.com/en/problems/974
+https://www.eolymp.com/en/problems/1453
+https://www.eolymp.com/en/problems/975
+https://leetcode.com/problems/island-perimeter/
+https://leetcode.com/problems/find-if-path-exists-in-graph/
+https://leetcode.com/problems/max-area-of-island/
+https://leetcode.com/problems/number-of-islands/
+https://leetcode.com/problems/count-sub-islands/
+https://leetcode.com/problems/number-of-closed-islands/
+https://cses.fi/problemset/task/1193
+https://cses.fi/problemset/task/1666
+https://cses.fi/problemset/task/1667
+https://cses.fi/problemset/task/1667
+https://www.geeksforgeeks.org/problems/disjoint-set-union-find/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab
+https://www.geeksforgeeks.org/problems/detect-cycle-using-dsu/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab
+https://www.hackerrank.com/contests/phitron-monthly-programming-contest-a-batch-04-a-feb-2024/challenges/romeo-and-juliet-2
+https://codeforces.com/problemset/problem/20/C
+https://cses.fi/problemset/task/1667/
+https://school.outsbook.com/problems/problemdetails/10106
+https://lightoj.com/problem/guilty-prince
+https://lightoj.com/problem/commandos
+https://codeforces.com/problemset/problem/25/D
+https://www.eolymp.com/en/problems/4852
+https://www.eolymp.com/en/problems/4853
+https://www.eolymp.com/en/problems/1060
+https://www.eolymp.com/en/problems/982
+https://www.eolymp.com/en/problems/4004
+https://www.eolymp.com/en/problems/4856
+https://www.eolymp.com/en/problems/1453
+https://www.spoj.com/problems/FARIDA/en/
+https://leetcode.com/problems/house-robber/description/
+https://leetcode.com/problems/min-cost-climbing-stairs/description/
+https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/X
+https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/W
+https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/U
+https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article
+https://www.codingninjas.com/studio/problems/number-of-subsets_3952532?source=youtube&campaign=striver_dp_videos&utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_dp_videos
+https://leetcode.com/problems/partition-equal-subset-sum/
+https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/V
+https://www.geeksforgeeks.org/problems/minimum-sum-partition3317/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab
+https://leetcode.com/problems/target-sum/description/
+https://leetcode.com/problems/climbing-stairs/description/
+https://leetcode.com/problems/min-cost-climbing-stairs/description/
+https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/U
+Dynamic Programming:
+https://atcoder.jp/contests/dp/tasks
+https://www.hackerrank.com/alpha-contest-v-1
